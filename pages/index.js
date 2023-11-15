@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>
           A Front-End Developer / Explorer Have prior experience as Interactive
           Designer / Project Manager / E-commerce Graphic Designer / Frontend
-          Developer / API Integrator and Coordinator.
+          Developer / API Integrator and Coordinator. Making some change now.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
